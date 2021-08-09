@@ -1,0 +1,179 @@
+footer {
+	background-color: #f8ada9;
+	font-family: 'Roberto', sans-serif;
+}
+#footer a {
+	text-decoration: none;
+	color: black;
+}
+footer a:hover {color: #fff;}
+/* tổng */
+.fot {
+	display: flex;
+	border-bottom: solid 6px white;
+}
+.te1 p {
+	font-size: 24pt;
+	padding-left: 25px;
+}
+h1 {
+	padding-left: 25px;
+}
+/* cửa hàng */
+.cua a {
+	text-decoration: none;
+	color: black;
+	font-size: 16pt;
+	white-space: nowrap;
+}
+/* chăm sóc khách hàng */
+.cham a {
+	text-decoration: none;
+	color: black;
+	font-size: 16pt;
+	white-space: nowrap;
+}
+/* Liên Hệ */
+.lien p {
+	font-size: 16pt;
+}
+/* copyright */
+.corig {
+	color: white;
+	padding-left: 25px;
+}
+#copy {
+	background-color: black;
+	font-size: 12pt;
+}
+
+@media only screen and (max-width: 992px) {
+.te1 p {
+	padding-bottom: 10px;
+	font-size: 12pt;
+	padding-left: 25px;
+}
+.te1 h2 {
+	padding: 0;
+}
+h2 {
+	padding-top: 15px;
+	white-space: nowrap;
+}
+/* cửa hàng */
+.cua a {
+	text-decoration: none;
+	color: black;
+	font-size: 13pt;
+	white-space: nowrap;
+}
+/* chăm sóc khách hàng */
+.cham a {
+	text-decoration: none;
+	color: black;
+	font-size: 13pt;
+	white-space: nowrap;
+}
+/* Liên Hệ */
+.lien p {
+	font-size: 13pt;
+	white-space: nowrap;
+}
+/* copyright */
+.corig {
+	color: white;
+	padding-left: 25px;
+}
+#copy {
+	background-color: black;
+	font-size: 12pt;
+}
+h1 {
+	padding-left: 25px;
+}
+}
+
+@media only screen and (max-width: 768px) {
+.te1 p {
+	padding-bottom: 5px;
+	font-size: 11pt;
+}
+h2 {
+	white-space: nowrap;
+	padding-top: 5px;
+}
+/* cửa hàng */
+.cua1 a {
+	text-decoration: none;
+	color: black;
+	font-size: 13pt;
+	white-space: nowrap;
+}
+/* chăm sóc khách hàng */
+.cham1 a {
+	text-decoration: none;
+	color: black;
+	font-size: 13pt;
+	white-space: nowrap;
+}
+/* Liên Hệ */
+.lien1 p {
+	font-size: 13pt;
+	white-space: nowrap;
+}
+/* copyright */
+.corig {
+	color: white;
+}
+#copy {
+	background-color: black;
+	font-size: 12pt;
+}
+}
+
+@media only screen and (max-width: 375px) {
+}
+.te1 {
+	padding-top: 15px;
+	margin-left: 0;
+}
+.te1 p {
+	font-size: 12pt;
+	padding-left: 0;
+	margin-bottom: 0;
+}
+.te2 {
+	font-size: 2rem;
+	padding: 10px 0 10px 10px;
+}
+h2 {
+	white-space: nowrap;
+}
+/* cửa hàng */
+.cua1 a {
+	text-decoration: none;
+	color: black;
+	font-size: 13pt;
+	white-space: nowrap;
+}
+/* chăm sóc khách hàng */
+.cham1 a {
+	text-decoration: none;
+	color: black;
+	font-size: 13pt;
+	white-space: nowrap;
+}
+/* Liên Hệ */
+.lien1 p {
+	font-size: 13pt;
+	white-space: nowrap;
+}
+/* copyright */
+.corig {
+	color: white;
+	font-size: 10pt;
+}
+#copy {
+	background-color: black;
+	font-size: 12pt;
+}
